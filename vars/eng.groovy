@@ -1,6 +1,6 @@
-def sum(a,b)
+def add(int a,int b)
 {
-  echo "the sum of ${a} and ${b} is $(a+b}"
+  return a+b
 }
 
 
